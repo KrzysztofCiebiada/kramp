@@ -191,7 +191,7 @@ Concurrency tests verify that:
 ## Start the application
 
 ```
-mvn spring-boot:run
+Add to run configuration --enable-preview in VM options and start the app
 ```
 
 Application will start on:
